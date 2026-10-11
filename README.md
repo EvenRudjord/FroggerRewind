@@ -21,6 +21,8 @@ The project was developed collaboratively, with a focus on rapid iteration, vers
 
 For more information: https://evenrudjord.github.io/#froggerrewind 
 
+Try out the game here: https://evepto.itch.io/the-frogglers-quest-for-sustinance
+
 ## Screenshots
 
 ![FROGGER.REWIND gameplay](https://evenrudjord.github.io/static/media/FroggerExtra1.3d78a4bbfc46e21455c0.png)
