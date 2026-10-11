@@ -1,0 +1,4 @@
+repository "FROGGER.REWIND 2025-08-01_17-17-19@Psyclops_Studio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
